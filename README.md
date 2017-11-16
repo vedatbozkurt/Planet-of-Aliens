@@ -1,1 +1,5 @@
 # Planet of Aliens
+PICO-8 is a fantasy console for developing and playing 8-bit games. PICO-8 supports coding in subset of Lua. It has 128×128 pixels per frame on display screen. There are fixed 16 color palette. The fantasy console also supports to creating maps to be developed and allows a maximum of 128 8×8 pixel sprites. Pico-8 console has an in-built code editor, a sprite and map editor and a four channel polyphonic music synth.
+
+# About Game
+game war was designed about space war game which is popular in 1980s. In this game, actions were done such as killing the enemy by shooting, destroying the enemy after killing it, moving the space ship down, up, right, left, recreating the enemy and randomly assigning enemy positions. Also, entrance screen, game screen and game end screen was added to this game.
